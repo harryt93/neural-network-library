@@ -9,8 +9,8 @@ See blog post for context. www.harrysprojects.com/2018/04/30/building-a-neural-n
 
 # In this repository
 
-nn.py - The library.
-Example Usage.ipynb - A Jupyter Notebook showing the library in use.
-Neural Network Library Documentation - Docs.
-data/mnist.pkl.gz - MNIST dataset for example usage.
+nn.py - The library.<br>
+Example Usage.ipynb - A Jupyter Notebook showing the library in use.<br>
+Neural Network Library Documentation - Docs.<br>
+data/mnist.pkl.gz - MNIST dataset for example usage.<br>
 data/toy_data.xlsx - Toy dataset. 
